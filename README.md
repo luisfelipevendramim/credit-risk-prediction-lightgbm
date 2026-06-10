@@ -1,6 +1,11 @@
 # 📊 Credit Risk Prediction with LightGBM
 
 <p align="center">
+  <img src="images/capa.png" width="900">
+</p>
+
+
+<p align="center">
   <img src="https://shields.io" alt="Python">
   <img src="https://shields.io" alt="LightGBM">
   <img src="https://shields.io" alt="Kaggle">
