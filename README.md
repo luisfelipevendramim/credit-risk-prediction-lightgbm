@@ -1,14 +1,27 @@
 # 📊 Credit Risk Prediction with LightGBM
 
-![Python](https://shields.io) ![LightGBM](https://shields.io) ![Kaggle](https://shields.io) ![Status](https://shields.io)
+<p align="center">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="LightGBM">
+  <img src="https://shields.io" alt="Kaggle">
+  <img src="https://shields.io" alt="Status">
+</p>
 
-**End-to-end machine learning pipeline for credit default risk prediction.**  
-Includes data preprocessing, feature aggregation, feature engineering, and LightGBM model training with stratified cross-validation.
+<p align="center">
+  <strong>End-to-end machine learning pipeline for credit default risk prediction.</strong><br>
+  Includes data preprocessing, feature aggregation, feature engineering, and LightGBM model training with stratified cross-validation.
+</p>
 
-[Overview](#-overview) • [Methodology](#-methodology) • [Models](#-models--evaluation) • [Results](#-results) • [Learnings](#-learnings) • [Technologies](#-technologies)
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-methodology">Methodology</a> •
+  <a href="#-models--evaluation">Models</a> •
+  <a href="#-results">Results</a> •
+  <a href="#-key-learnings">Learnings</a> •
+  <a href="#-technologies">Technologies</a>
+</p>
 
 ---
-
 
 ## 📌 Overview
 
@@ -64,10 +77,11 @@ A controlled hyperparameter tuning process evaluated learning rates, number of t
 | **Advanced (LightGBM Classifier)** | **~0.784** | 🚀 **Best Model** |
 
 ### 📊 Model Insights & Visualizations
-
-![Model Evaluation](images/feature_importance.png)  
-*Figure 1: LightGBM Model Evaluation & Visual Insights.*
-
+<p align="center">
+  <img src="images/feature_importance.png" alt="Feature Importance or ROC Curve" width="700">
+  <br>
+  <em>Figure 1: LightGBM Model Evaluation & Visual Insights.</em>
+</p>
 
 ### 🔍 Top Predictors (Feature Importance)
 1. `CREDIT_ANNUITY_RATIO`
@@ -109,7 +123,10 @@ A controlled hyperparameter tuning process evaluated learning rates, number of t
 **Luis Felipe**  
 *Data Analytics | Machine Learning | Procurement Analytics | Business Intelligence*
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-
+<p>
+  <a href="https://www.linkedin.com/in/luís-felipe-vendramim-msc-17b67736/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+</p>
 
 *Feel free to connect, provide feedback, or discuss ideas related to machine learning and credit risk modeling!*
